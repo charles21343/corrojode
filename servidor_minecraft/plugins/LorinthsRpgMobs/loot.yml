@@ -1,0 +1,59 @@
+##########
+# loot.yml
+#   - configure mob loot tables by Level and LootTables
+#
+# ReplaceVanillaDrops: replaces any drops at the lowest event priority (shouldn't affect other drop plugins)
+# Items:
+#   itemId:
+#     Id: MATERIAL:durability
+#     Count: Number of items dropped
+#     DisplayName: Custom name (supports color codes '&')
+#     Lore: Lore for the item - (supports color codes '&')
+#     Enchantments:
+#       enchantId: level
+#     ItemFlags: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/inventory/ItemFlag.html
+#     - HIDE_ENCHANTS
+#
+# Drops:
+#   ENTITYTYPE:
+#     Level:
+#       LootTableName
+#         itemId or Material: chance to drop
+#
+#
+##########
+
+Enabled: true
+ReplaceVanillaDrops: false
+Items:
+  smellyFlesh:
+    Id: ROTTEN_FLESH
+    Count: 1
+    DisplayName: '&aSmelly Flesh'
+    Lore:
+    - '&7This is some REALLY'
+    - '&aSmelly Flesh'
+    Enchantments:
+      unbreaking: 1
+    ItemFlags:
+    - HIDE_ENCHANTS
+    # NBTTags:
+    #  pluginKey:
+    #    tagKey: value
+  mmoItemSword:
+    mmoitem: SWORD KATANA
+Drops:
+  ZOMBIE:
+    1:
+      VanillaMultiplier: 1
+      LootTable:
+        smellyFlesh: 50.0
+        ROTTEN_FLESH: 50.0
+      LootTable2:
+        smellyFlesh: 1.0
+        ROTTEN_FLESH: 5.0
+        mmoItemSword: 0.1
+      Commands:
+        'give {playername} STONE 1': 5.0
+    100:
+      VanillaMultiplier: 2

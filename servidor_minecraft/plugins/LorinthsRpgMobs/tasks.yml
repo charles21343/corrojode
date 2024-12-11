@@ -1,0 +1,15 @@
+##################################
+# tasks.yml
+# Enable/Disable and configure different tasks that run in this plugin
+#
+# PlayerMobLevelNotify: Task that notifies the player when it enters higher or lower level areas
+#   Enabled: true/false - enable or disable this feature
+#   Interval: Integer - how often (in ticks) we want to check (20 ticks = 1 second)
+#   LevelDifferenceTrigger: Integer - how many levels since last notified should we wait until we notify again
+#
+##################################
+
+PlayerMobLevelNotify:
+  Enabled: false
+  Interval: 20
+  LevelDifferenceTrigger: 2

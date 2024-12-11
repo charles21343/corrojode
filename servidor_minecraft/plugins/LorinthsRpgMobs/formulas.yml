@@ -1,0 +1,19 @@
+##########
+# formulas.yml
+#   - configure different formulas for extra functionality
+#
+# ExperienceModifierFormula: - Used to modify the output of experience based on killer/target level
+# MoneyModifierFormulas: - Used to modify the output of money based on killer/target level
+#
+##########
+
+ExperienceModifierFormula:
+  Enabled: false
+  MobLevelHigher: 'max({exp} * 1.25, {exp} * ((100.0 + 5 * ({mobLevel} - {playerLevel})) / 100.0))'
+  MobLevelEqual: '{exp}'
+  MobLevelLower: '{exp} * ((100 - 10 * ({playerLevel} - {mobLevel})) / 100.0)'
+MoneyModifierFormula:
+  Enabled: false
+  MobLevelHigher: 'max({money} * 1.25, {money} * ((100.0 + 5 * ({mobLevel} - {playerLevel})) / 100.0))'
+  MobLevelEqual: '{money}'
+  MobLevelLower: '{money} * ((100 - 10 * ({playerLevel} - {mobLevel})) / 100.0)'
