@@ -15862,6 +15862,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2024-12-13 22:18:08 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/roasted_nuts_from_campfire": {
     "criteria": {
       "has_nut": "2024-12-13 21:59:52 +0000"
@@ -15922,6 +15928,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-13 22:15:21 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/nutty_cookie": {
     "criteria": {
       "has_nuts": "2024-12-13 21:59:52 +0000",
@@ -15968,6 +15980,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-13 22:15:10 +0000"
     },
     "done": true
   },
@@ -16052,6 +16070,12 @@
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_ambusher": {
+    "criteria": {
+      "ambusher": "2024-12-13 22:16:13 +0000"
     },
     "done": true
   },
