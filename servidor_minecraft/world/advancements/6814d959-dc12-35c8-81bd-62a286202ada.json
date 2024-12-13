@@ -18402,6 +18402,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_baths": "2024-12-13 22:26:06 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-13 22:13:56 +0000"
