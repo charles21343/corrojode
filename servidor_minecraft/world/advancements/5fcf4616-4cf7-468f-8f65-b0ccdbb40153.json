@@ -121,6 +121,7 @@
       "minecraft:beach": "2024-10-26 19:41:07 -0500",
       "minecraft:dark_forest": "2024-12-10 21:02:30 -0500",
       "minecraft:river": "2024-10-26 19:41:09 -0500",
+      "minecraft:stony_shore": "2024-12-12 20:46:47 -0500",
       "minecraft:cold_ocean": "2024-10-26 19:46:59 -0500",
       "minecraft:forest": "2024-10-26 19:42:19 -0500",
       "minecraft:ocean": "2024-10-26 19:46:55 -0500",
@@ -1961,6 +1962,97 @@
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2024-12-09 22:43:29 -0500"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-12 20:48:01 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_nuts": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_sapling": {
+    "criteria": {
+      "has_pecan": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_ice_cream": {
+    "criteria": {
+      "has_pecan": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_nuts": "2024-12-12 20:46:30 -0500",
+      "has_the_recipe": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-12 20:46:36 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_pie": {
+    "criteria": {
+      "has_pecan": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2024-12-12 20:46:30 -0500"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/pecan_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2024-12-12 20:46:30 -0500"
     },
     "done": true
   },
