@@ -15798,6 +15798,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "brown_mushroom": "2024-12-13 22:59:59 +0000",
       "sugar_cane": "2024-12-11 03:53:32 +0000"
     },
     "done": false
