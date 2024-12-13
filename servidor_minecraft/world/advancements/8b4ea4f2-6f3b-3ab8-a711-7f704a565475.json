@@ -1068,6 +1068,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-13 01:15:37 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_stick": "2024-12-13 00:53:14 +0000"
@@ -1155,6 +1161,12 @@
   "regions_unexplored:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_pine_planks": "2024-12-13 00:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-13 01:22:08 +0000"
     },
     "done": true
   },
@@ -1335,6 +1347,12 @@
   "ancient_aether:recipes/transportation/sakura_boat": {
     "criteria": {
       "in_water": "2024-12-13 00:22:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-13 01:14:50 +0000"
     },
     "done": true
   },
@@ -1675,6 +1693,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-13 01:14:22 +0000",
       "apple": "2024-12-13 01:01:42 +0000",
       "bread": "2024-12-13 01:08:08 +0000",
       "carrot": "2024-12-13 00:39:53 +0000"
@@ -2005,6 +2024,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-13 01:14:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-13 00:58:13 +0000"
@@ -2304,6 +2329,12 @@
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-13 00:46:51 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 01:14:58 +0000"
     },
     "done": true
   },
@@ -3494,6 +3525,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-13 00:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-13 01:14:58 +0000"
     },
     "done": true
   },

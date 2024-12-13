@@ -15826,5 +15826,11 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/oak_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2024-12-13 01:19:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -3667,6 +3667,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "pine_log": "2024-12-13 01:19:37 +0000",
       "silver_birch_log": "2024-12-10 04:41:05 +0000"
     },
     "done": false
@@ -4839,6 +4840,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2024-12-13 01:09:01 +0000"
@@ -4923,6 +4930,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-13 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
@@ -4959,6 +4978,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/diamond_bow_conditional_120_smithing": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
@@ -4992,6 +5017,12 @@
   "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 01:18:10 +0000"
     },
     "done": true
   },
