@@ -5,13 +5,13 @@ skills:
     xp: 4558.069999999701
   auraskills/defense:
     level: 5
-    xp: 261.7710010565839
+    xp: 266.7210010565839
   auraskills/fishing:
     level: 0
     xp: 0.0
   auraskills/agility:
     level: 5
-    xp: 1959.5965999999999
+    xp: 2078.5827999999997
   auraskills/farming:
     level: 1
     xp: 75.0
@@ -32,7 +32,7 @@ skills:
     xp: 31.28
   auraskills/fighting:
     level: 5
-    xp: 468.09900000000016
+    xp: 480.32000000000016
 mana: 26.0
 action_bar:
   idle: true

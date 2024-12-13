@@ -19,8 +19,8 @@ skills:
     level: 0
     xp: 35.0
   auraskills/agility:
-    level: 4
-    xp: 1690.4542
+    level: 5
+    xp: 63.76859999999992
   auraskills/mining:
     level: 0
     xp: 31.69999999999997
@@ -33,7 +33,7 @@ skills:
   auraskills/archery:
     level: 0
     xp: 0.0
-mana: 24.0
+mana: 26.0
 action_bar:
   idle: true
 trait_modifiers:
