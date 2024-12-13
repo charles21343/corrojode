@@ -581,6 +581,7 @@
       "cooked_beef": "2024-12-13 01:14:22 +0000",
       "apple": "2024-12-13 01:01:42 +0000",
       "bread": "2024-12-13 01:08:08 +0000",
+      "rotten_flesh": "2024-12-13 22:06:48 +0000",
       "carrot": "2024-12-13 00:39:53 +0000"
     },
     "done": false
@@ -3631,6 +3632,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-13 22:02:50 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 21:56:25 +0000"
@@ -3991,6 +3998,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-13 22:05:16 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:56:25 +0000"
@@ -4054,6 +4067,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-13 21:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-13 22:05:29 +0000"
     },
     "done": true
   },

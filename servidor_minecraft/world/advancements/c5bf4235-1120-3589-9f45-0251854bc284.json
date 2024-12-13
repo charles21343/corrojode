@@ -15862,6 +15862,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/beef_stew": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:57:29 +0000"
@@ -15886,15 +15892,58 @@
     },
     "done": true
   },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/ham_sandwich": {
     "criteria": {
       "has_cooked_porkchop": "2024-12-13 21:57:29 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/rabbit_stew": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_nuts": "2024-12-13 21:59:52 +0000",
+      "has_the_recipe": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_sapling": {
+    "criteria": {
+      "has_pecan": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-13 21:58:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_ice_cream": {
+    "criteria": {
+      "has_pecan": "2024-12-13 21:59:52 +0000"
     },
     "done": true
   },
@@ -15928,9 +15977,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-13 21:58:29 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-13 21:58:29 +0000"
     },
     "done": true
   },
@@ -15943,6 +16010,12 @@
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_nuts": "2024-12-13 21:59:52 +0000"
     },
     "done": true
   },
@@ -15964,9 +16037,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/pecan_pie": {
+    "criteria": {
+      "has_pecan": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2024-12-13 21:59:52 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/pecan_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:59:52 +0000"
     },
     "done": true
   },
