@@ -14,7 +14,7 @@ skills:
     xp: 29.8
   auraskills/mining:
     level: 1
-    xp: 46.80000000000035
+    xp: 73.30000000000061
   auraskills/enchanting:
     level: 0
     xp: 0.0
@@ -28,8 +28,8 @@ skills:
     level: 2
     xp: 310.19999999999925
   auraskills/agility:
-    level: 3
-    xp: 789.8964000000001
+    level: 4
+    xp: 69.48800000000008
   auraskills/fishing:
     level: 0
     xp: 0.0
