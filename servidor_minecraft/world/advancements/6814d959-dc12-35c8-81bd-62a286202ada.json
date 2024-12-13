@@ -2546,7 +2546,8 @@
   },
   "regions_unexplored:mycologist": {
     "criteria": {
-      "yellow_bioshroom": "2024-10-27 06:30:41 +0000"
+      "yellow_bioshroom": "2024-10-27 06:30:41 +0000",
+      "blue_bioshroom": "2024-12-13 22:33:29 +0000"
     },
     "done": false
   },
@@ -18408,9 +18409,27 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_block": {
     "criteria": {
       "has_silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
     },
     "done": true
   },
