@@ -1,14 +1,14 @@
 uuid: c5bf4235-1120-3589-9f45-0251854bc284
 skills:
   auraskills/fighting:
-    level: 0
-    xp: 44.410000000000004
+    level: 1
+    xp: 64.1
   auraskills/enchanting:
     level: 0
     xp: 0.0
   auraskills/defense:
-    level: 1
-    xp: 185.5
+    level: 2
+    xp: 21.200000000000003
   auraskills/alchemy:
     level: 0
     xp: 0.0
@@ -20,19 +20,24 @@ skills:
     xp: 18.0
   auraskills/agility:
     level: 4
-    xp: 470.5189999999998
+    xp: 769.2135999999996
   auraskills/mining:
     level: 0
     xp: 0.0
   auraskills/foraging:
-    level: 0
-    xp: 0.0
+    level: 2
+    xp: 21.6
   auraskills/excavation:
     level: 0
-    xp: 7.700000000000001
+    xp: 9.700000000000001
   auraskills/archery:
     level: 0
     xp: 0.0
 mana: 24.0
 action_bar:
   idle: true
+trait_modifiers:
+  '0':
+    name: foraging_luck_ability
+    trait: auraskills/foraging_luck
+    value: 10.0
