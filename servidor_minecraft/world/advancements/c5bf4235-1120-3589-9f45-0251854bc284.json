@@ -15832,5 +15832,143 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-13 21:57:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pasta_with_meatballs": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/beef_stew": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/mushroom_stew": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-13 21:55:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/rabbit_stew": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/mushroom_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/vegetable_noodles": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:53:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:57:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

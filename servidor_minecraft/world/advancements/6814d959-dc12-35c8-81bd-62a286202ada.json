@@ -18203,15 +18203,27 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/burrowing_arrow": {
+  "croptopia:recipes/peanut_butter_and_jam": {
     "criteria": {
-      "burrowing_arrow": "2024-12-11 05:36:37 +0000"
+      "has_jam": "2024-12-11 04:26:03 +0000"
     },
     "done": true
   },
-  "netherexp:recipes/polished_basalt/slab": {
+  "croptopia:gather_food": {
     "criteria": {
-      "has_item": "2024-12-11 05:29:44 +0000"
+      "strawberry_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe_repairing": {
+    "criteria": {
+      "has_zanite_hoe": "2024-12-11 04:28:22 +0000"
     },
     "done": true
   },
@@ -18221,15 +18233,75 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2024-12-11 05:12:23 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/netherite_hoe_repairing": {
     "criteria": {
       "has_netherite_hoe": "2024-12-11 05:13:28 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-11 05:13:28 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_crone": {
+    "criteria": {
+      "kill_a_crone": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2024-12-11 05:33:02 +0000"
     },
     "done": true
   },
@@ -18251,27 +18323,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/zanite_hoe_repairing": {
-    "criteria": {
-      "has_zanite_hoe": "2024-12-11 04:28:22 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/peanut_butter_and_jam": {
-    "criteria": {
-      "has_jam": "2024-12-11 04:26:03 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-11 05:34:54 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
-    "criteria": {
-      "has_redwood_shrub": "2024-12-11 05:33:02 +0000"
     },
     "done": true
   },
@@ -18281,45 +18335,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2024-12-11 05:40:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/obtain_netherite_hoe": {
-    "criteria": {
-      "netherite_hoe": "2024-12-11 05:13:28 +0000"
-    },
-    "done": true
-  },
   "farmerscroptopia:recipes/farmersdelight_crafting/dumplings": {
     "criteria": {
       "has_the_recipe": "2024-12-11 05:34:54 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_caramel": {
-    "criteria": {
-      "has_sugar": "2024-12-11 05:31:51 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_food": {
-    "criteria": {
-      "strawberry_jam": "2024-12-11 04:26:03 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/food/caramel_from_smoking_sugar": {
-    "criteria": {
-      "has_sugar": "2024-12-11 05:31:51 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
-    "criteria": {
-      "has_planks": "2024-12-11 05:29:44 +0000"
     },
     "done": true
   },
@@ -18329,39 +18347,27 @@
     },
     "done": true
   },
-  "goety:goety/kill_a_crone": {
-    "criteria": {
-      "kill_a_crone": "2024-12-11 05:31:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/material/armor_shard_cluster": {
-    "criteria": {
-      "has_item": "2024-12-11 05:12:23 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/polished_basalt/wall": {
-    "criteria": {
-      "has_item": "2024-12-11 05:29:44 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/toast_with_jam": {
-    "criteria": {
-      "has_jam": "2024-12-11 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/polished_basalt/stairs": {
-    "criteria": {
-      "has_item": "2024-12-11 05:29:44 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-11 05:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-11 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-13 21:50:44 +0000"
     },
     "done": true
   },

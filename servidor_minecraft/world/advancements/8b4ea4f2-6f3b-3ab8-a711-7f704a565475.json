@@ -3613,9 +3613,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-13 21:45:12 +0000"
     },
     "done": true
   },
@@ -3625,9 +3649,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-13 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-13 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
     },
     "done": true
   },
@@ -3637,9 +3739,57 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
     },
     "done": true
   },
@@ -3649,9 +3799,87 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/mushroom_stew": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/highsproot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
     },
     "done": true
   },
@@ -3661,9 +3889,57 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
     },
     "done": true
   },
@@ -3673,9 +3949,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 21:40:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_shaped_skip": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
     },
     "done": true
   },
@@ -3685,15 +3979,327 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/gilded_beads": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-13 21:57:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "enchantinginfuser:recipes/decorations/enchanting_infuser": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_crossbow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-13 21:56:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_spruce_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-13 21:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/spruce_branch_from_spruce_log": {
+    "criteria": {
+      "has_log": "2024-12-13 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-13 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/mushroom_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-13 21:45:12 +0000"
     },
     "done": true
   },
@@ -3709,9 +4315,111 @@
     },
     "done": true
   },
+  "ancient_aether:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-13 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2024-12-13 21:45:50 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 21:40:11 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/spruce_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-13 21:45:12 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-13 21:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
     },
     "done": true
   },
@@ -3721,15 +4429,69 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/gold_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/spruce_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 21:41:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/half_gold_bow_conditional_120_smithing": {
+    "criteria": {
+      "has_item": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-13 21:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-13 21:56:25 +0000"
     },
     "done": true
   },
