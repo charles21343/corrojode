@@ -15790,5 +15790,17 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-11 03:52:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2024-12-11 03:53:32 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

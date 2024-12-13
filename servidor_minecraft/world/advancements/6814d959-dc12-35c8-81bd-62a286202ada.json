@@ -144,6 +144,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-03 06:21:24 +0000",
       "minecraft:snowy_beach": "2024-11-06 07:50:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-11-09 16:43:09 +0000",
+      "minecraft:flower_forest": "2024-12-11 03:17:33 +0000",
       "minecraft:frozen_peaks": "2024-10-29 16:08:04 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-03 06:18:20 +0000",
       "minecraft:deep_dark": "2024-11-10 04:35:15 +0000",
@@ -17525,6 +17526,842 @@
   "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-11 02:19:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2024-12-11 02:40:12 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-11 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-11 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-11 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/glow_berry_custard": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/craft_witch_hat": {
+    "criteria": {
+      "witch_hat": "2024-12-11 02:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-12-11 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-11 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-11 03:14:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_all": {
+    "criteria": {
+      "kiwi_seed": "2024-12-11 03:15:33 +0000",
+      "soybean_seed": "2024-12-11 03:15:18 +0000",
+      "barley_seed": "2024-12-11 03:17:15 +0000",
+      "corn_seed": "2024-12-11 03:17:15 +0000",
+      "mustard_seed": "2024-12-11 03:17:12 +0000"
+    },
+    "done": false
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-11 03:15:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "corn_seed": "2024-12-11 03:17:15 +0000",
+      "mustard_seed": "2024-12-11 03:17:12 +0000",
+      "barley_seed": "2024-12-11 03:17:15 +0000",
+      "soybean_seed": "2024-12-11 03:15:18 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/shaped_kiwi_sorbet": {
+    "criteria": {
+      "has_kiwi": "2024-12-11 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/kiwi_seed": {
+    "criteria": {
+      "has_kiwi": "2024-12-11 03:15:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "kiwi_seed": "2024-12-11 03:15:33 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_salmon_poppy_bush": {
+    "criteria": {
+      "has_salmon_poppy_bush": "2024-12-11 03:16:00 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/white_dye_from_white_trillium": {
+    "criteria": {
+      "has_white_trillium": "2024-12-11 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
+    "criteria": {
+      "has_fireweed": "2024-12-11 03:16:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_lupine": {
+    "criteria": {
+      "has_blue_lupine": "2024-12-11 03:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-11 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2024-12-11 03:16:04 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/red_dye_from_waratah": {
+    "criteria": {
+      "has_waratah": "2024-12-11 03:16:05 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/pink_dye_from_pink_lupine": {
+    "criteria": {
+      "has_pink_lupine": "2024-12-11 03:16:14 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_blue_dye_from_aster": {
+    "criteria": {
+      "has_aster": "2024-12-11 03:16:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_nuts": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/walnut_sapling": {
+    "criteria": {
+      "has_walnut": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_nuts": "2024-12-11 03:17:07 +0000",
+      "has_the_recipe": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2024-12-11 03:17:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/mustard_seed": {
+    "criteria": {
+      "has_mustard": "2024-12-11 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/barley_seed": {
+    "criteria": {
+      "has_barley": "2024-12-11 03:17:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_corn": "2024-12-11 03:17:20 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pear_sapling": {
+    "criteria": {
+      "has_pear": "2024-12-11 03:18:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_jam": {
+    "criteria": {
+      "has_apricot": "2024-12-11 03:18:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apricot_sapling": {
+    "criteria": {
+      "has_apricot": "2024-12-11 03:18:42 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/apricot_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 03:18:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/starfruit_sapling": {
+    "criteria": {
+      "has_starfruit": "2024-12-11 03:19:00 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/peach_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-11 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-11 03:19:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-11 03:20:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-11 03:20:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-11 03:20:05 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/iron_arrow_shaped2": {
+    "criteria": {
+      "has_item": "2024-12-11 03:24:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/fletched_sticks_conditional_fletching": {
+    "criteria": {
+      "has_item": "2024-12-11 03:24:15 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_cutlass_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/acacia_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_sickle_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_scythe_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dagger_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_battle_staff_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_broad_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_spear_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_katana_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_flail_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_dancer_s_sword_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_great_hammer_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_glaive_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_mace_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/acacia_plank_claymore_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_acacia_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-11 03:28:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-11 03:50:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2024-12-11 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2024-12-11 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2024-12-11 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/cherry_jam": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/plum_sapling": {
+    "criteria": {
+      "has_plum": "2024-12-11 03:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2024-12-11 03:59:50 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_vanilla_mineshaft": "2024-12-11 04:01:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-11 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-11 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-11 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2024-12-11 04:02:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2024-12-11 04:02:21 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2024-12-11 04:04:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-12-11 04:06:27 +0000"
+    },
+    "done": true
+  },
+  "terramity:warden_soul_advancement": {
+    "criteria": {
+      "warden_soul_advancement_0": "2024-12-11 04:06:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/burrowing_arrow": {
+    "criteria": {
+      "burrowing_arrow": "2024-12-11 05:36:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/slab": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-11 04:45:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/netherite_hoe_repairing": {
+    "criteria": {
+      "has_netherite_hoe": "2024-12-11 05:13:28 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/azalea_hedge": {
+    "criteria": {
+      "has_azalea_leaves": "2024-12-11 05:33:42 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/ratatouille": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/zanite_hoe_repairing": {
+    "criteria": {
+      "has_zanite_hoe": "2024-12-11 04:28:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/peanut_butter_and_jam": {
+    "criteria": {
+      "has_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/redwood_sapling_from_redwood_shrub": {
+    "criteria": {
+      "has_redwood_shrub": "2024-12-11 05:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-11 05:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-12-11 05:13:28 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/dumplings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_food": {
+    "criteria": {
+      "strawberry_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt_bricks/polished_basalt_bricks": {
+    "criteria": {
+      "has_planks": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 05:34:54 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_crone": {
+    "criteria": {
+      "kill_a_crone": "2024-12-11 05:31:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2024-12-11 05:12:23 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/wall": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_jam": "2024-12-11 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/polished_basalt/stairs": {
+    "criteria": {
+      "has_item": "2024-12-11 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-11 05:34:54 +0000"
     },
     "done": true
   },
