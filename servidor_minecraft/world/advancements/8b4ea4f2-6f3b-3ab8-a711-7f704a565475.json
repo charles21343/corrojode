@@ -3878,6 +3878,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 22:11:13 +0000"
@@ -4418,6 +4424,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2024-12-13 22:16:32 +0000"
@@ -4469,6 +4481,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-13 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
     },
     "done": true
   },
@@ -4604,6 +4622,12 @@
     },
     "done": true
   },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:56:25 +0000"
@@ -4649,6 +4673,12 @@
   "aether:recipes/combat/golden_pendant": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
     },
     "done": true
   },
@@ -5300,6 +5330,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 22:25:38 +0000"
@@ -5369,6 +5405,12 @@
   "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
     },
     "done": true
   },
@@ -5507,6 +5549,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2024-12-13 21:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-13 22:48:42 +0000"
     },
     "done": true
   },
