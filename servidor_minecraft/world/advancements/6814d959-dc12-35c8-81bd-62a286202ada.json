@@ -17484,6 +17484,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "nether_wart": "2024-12-14 04:07:35 +0000",
       "carrot": "2024-12-10 07:25:20 +0000"
     },
     "done": false
@@ -18526,6 +18527,12 @@
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2024-12-14 03:09:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 04:07:32 +0000"
     },
     "done": true
   },
