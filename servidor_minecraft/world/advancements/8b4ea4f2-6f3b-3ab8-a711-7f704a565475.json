@@ -5797,6 +5797,12 @@
     },
     "done": true
   },
+  "stellarity:recipes/leather_from_membranes": {
+    "criteria": {
+      "has_item": "2024-12-14 03:01:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-13 22:09:15 +0000"

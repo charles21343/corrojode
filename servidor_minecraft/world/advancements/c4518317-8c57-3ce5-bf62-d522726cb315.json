@@ -6584,5 +6584,11 @@
     },
     "done": true
   },
+  "expanded_combat:recipes/combat/gold_stick_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-14 02:53:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
