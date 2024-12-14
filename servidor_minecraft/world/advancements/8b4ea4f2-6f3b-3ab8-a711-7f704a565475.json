@@ -181,7 +181,9 @@
       "minecraft:river": "2024-12-14 00:51:26 +0000",
       "minecraft:stony_shore": "2024-12-13 00:22:53 +0000",
       "minecraft:lush_caves": "2024-12-14 01:49:18 +0000",
-      "minecraft:ocean": "2024-12-13 00:22:06 +0000"
+      "minecraft:ocean": "2024-12-13 00:22:06 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-14 02:45:40 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-14 02:43:35 +0000"
     },
     "done": false
   },
@@ -3633,6 +3635,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-13 21:45:12 +0000"
@@ -3651,9 +3659,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-14 02:40:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2024-12-13 22:20:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:45:05 +0000"
     },
     "done": true
   },
@@ -3963,6 +3983,12 @@
     },
     "done": true
   },
+  "farmerscroptopia:recipes/farmersdelight_crafting/pasta_with_meatballs": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_kitchen_drawer": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-13 22:25:38 +0000"
@@ -4150,6 +4176,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2024-12-14 02:45:04 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/spruce_plank_mace_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 21:42:49 +0000"
@@ -4210,6 +4242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-14 02:40:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/onion_rings": {
     "criteria": {
       "has_onions": "2024-12-14 00:57:21 +0000"
@@ -4219,6 +4257,12 @@
   "refurbished_furniture:recipes/heating/baked_potato": {
     "criteria": {
       "has_ingredient": "2024-12-14 00:57:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 02:45:05 +0000"
     },
     "done": true
   },
@@ -4877,6 +4921,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-14 02:40:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/noodles": {
     "criteria": {
       "has_cooking_pot": "2024-12-14 02:08:50 +0000"
@@ -5036,6 +5086,12 @@
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2024-12-14 02:45:04 +0000"
     },
     "done": true
   },
@@ -5243,6 +5299,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2024-12-13 21:42:49 +0000"
@@ -5288,6 +5350,12 @@
   "regions_unexplored:recipes/building_blocks/stone_grass_block": {
     "criteria": {
       "has_stone": "2024-12-13 22:26:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 02:45:04 +0000"
     },
     "done": true
   },
@@ -5342,6 +5410,12 @@
   "croptopia:pot": {
     "criteria": {
       "cooking_pot": "2024-12-14 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
     },
     "done": true
   },
@@ -5501,6 +5575,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/squid_ink_pasta": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:45:20 +0000"
@@ -5576,6 +5656,18 @@
   "grimoireofgaia:recipes/misc/quill": {
     "criteria": {
       "has_diamond": "2024-12-13 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-14 02:47:59 +0000"
     },
     "done": true
   },
@@ -5675,6 +5767,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 02:45:04 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bamboo_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 00:30:20 +0000"
@@ -5684,6 +5782,12 @@
   "regions_unexplored:recipes/decorations/oak_branch_from_oak_log": {
     "criteria": {
       "has_log": "2024-12-13 21:41:58 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-14 02:47:59 +0000"
     },
     "done": true
   },
@@ -5735,6 +5839,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/gold_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 21:56:25 +0000"
@@ -5756,6 +5866,12 @@
   "croptopia:recipes/steamed_rice": {
     "criteria": {
       "has_cooking_pot": "2024-12-14 02:08:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2024-12-14 02:45:04 +0000"
     },
     "done": true
   },
@@ -5816,6 +5932,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-14 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
     },
     "done": true
   },
@@ -5987,6 +6109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-14 02:40:42 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_magma_block": {
     "criteria": {
       "has_item": "2024-12-14 01:31:33 +0000"
@@ -6062,6 +6190,12 @@
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-13 22:09:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-14 02:48:42 +0000"
     },
     "done": true
   },
@@ -6443,6 +6577,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 02:45:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-12-13 21:41:52 +0000"
@@ -6458,6 +6598,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-14 01:49:20 +0000"
+    },
+    "done": true
+  },
+  "expanded_combat:recipes/combat/rabbit_leather_quiver_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-14 02:47:59 +0000"
     },
     "done": true
   },
@@ -6560,6 +6706,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-13 21:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-14 02:45:05 +0000"
     },
     "done": true
   },
