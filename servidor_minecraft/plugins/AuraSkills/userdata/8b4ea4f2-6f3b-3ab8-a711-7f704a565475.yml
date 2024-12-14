@@ -2,7 +2,7 @@ uuid: 8b4ea4f2-6f3b-3ab8-a711-7f704a565475
 skills:
   auraskills/excavation:
     level: 0
-    xp: 17.29999999999999
+    xp: 18.99999999999999
   auraskills/fighting:
     level: 1
     xp: 118.15999999999995
@@ -29,7 +29,7 @@ skills:
     xp: 310.19999999999925
   auraskills/agility:
     level: 4
-    xp: 587.0110000000001
+    xp: 674.5882
   auraskills/fishing:
     level: 0
     xp: 0.0

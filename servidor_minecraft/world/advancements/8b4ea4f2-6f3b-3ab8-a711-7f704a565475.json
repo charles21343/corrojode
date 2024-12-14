@@ -3914,6 +3914,13 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2024-12-14 00:08:54 +0000",
+      "tomato": "2024-12-14 00:08:57 +0000"
+    },
+    "done": false
+  },
   "expanded_combat:recipes/combat/diamond_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 22:09:15 +0000"
@@ -4199,6 +4206,12 @@
   "expanded_combat:recipes/combat/oak_plank_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 22:16:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2024-12-14 00:06:05 +0000"
     },
     "done": true
   },
@@ -4625,6 +4638,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-13 21:40:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2024-12-14 00:06:05 +0000"
     },
     "done": true
   },
