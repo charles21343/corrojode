@@ -2943,6 +2943,7 @@
       "minecraft:piglin_brute": "2024-10-31 22:47:52 +0000",
       "minecraft:creeper": "2024-10-27 06:35:02 +0000",
       "minecraft:slime": "2024-11-24 00:03:19 +0000",
+      "minecraft:evoker": "2024-12-14 01:36:31 +0000",
       "minecraft:phantom": "2024-10-31 23:59:21 +0000",
       "minecraft:zombified_piglin": "2024-10-31 22:46:50 +0000",
       "minecraft:witch": "2024-11-06 04:24:46 +0000",
@@ -2953,6 +2954,7 @@
       "minecraft:stray": "2024-10-27 22:49:13 +0000",
       "minecraft:silverfish": "2024-11-06 03:41:57 +0000",
       "minecraft:enderman": "2024-11-10 01:26:10 +0000",
+      "minecraft:vex": "2024-12-14 01:36:41 +0000",
       "minecraft:zombie": "2024-10-27 07:18:25 +0000",
       "minecraft:drowned": "2024-10-27 22:37:02 +0000",
       "minecraft:zombie_villager": "2024-11-06 03:59:51 +0000"
@@ -3070,6 +3072,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2024-12-03 06:43:00 +0000",
+      "illager_manor": "2024-12-14 01:34:18 +0000",
       "illager_camp": "2024-10-27 06:41:06 +0000"
     },
     "done": false
@@ -15799,6 +15802,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2024-12-14 01:57:01 +0000",
       "brown_mushroom": "2024-12-13 22:59:59 +0000",
       "sugar_cane": "2024-12-11 03:53:32 +0000",
       "wheat": "2024-12-14 00:04:44 +0000",
@@ -16089,6 +16093,18 @@
     },
     "done": true
   },
+  "goety:goety/get_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-14 00:58:29 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-14 00:58:30 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2024-12-14 00:40:54 +0000"
@@ -16113,15 +16129,57 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-14 00:48:20 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_totem": {
+    "criteria": {
+      "totem_of_undying": "2024-12-14 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-14 00:51:38 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/ratatouille": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-14 00:00:13 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/baked_cod_stew": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 01:56:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-14 01:18:26 +0000"
     },
     "done": true
   },
@@ -16143,9 +16201,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/starfruit_sapling": {
+    "criteria": {
+      "has_starfruit": "2024-12-14 01:04:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-12-14 01:56:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2024-12-14 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 01:41:18 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/dumplings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:56:56 +0000"
     },
     "done": true
   },
@@ -16161,9 +16255,51 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2024-12-14 01:34:18 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_evoker": {
+    "criteria": {
+      "kill_a_evoker": "2024-12-14 01:36:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/squid_ink_pasta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 01:56:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 01:41:18 +0000"
     },
     "done": true
   },
@@ -16185,6 +16321,18 @@
     },
     "done": true
   },
+  "farmerscroptopia:recipes/farmersdelight_crafting/cabbage_rolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:56:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
   "farmerscroptopia:recipes/farmersdelight_crafting/fried_rice": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:05:41 +0000"
@@ -16197,9 +16345,33 @@
     },
     "done": true
   },
+  "farmerscroptopia:recipes/farmersdelight_crafting/tomato_sauce": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-12-14 00:23:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-14 01:18:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-14 01:41:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-14 01:37:15 +0000"
     },
     "done": true
   },

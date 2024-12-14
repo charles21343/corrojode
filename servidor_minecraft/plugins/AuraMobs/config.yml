@@ -3,7 +3,7 @@ mob_defaults:
   damage:
     formula: '{mob_damage} + ({mob_damage} * ({level} - 1) / 25)'
   health:
-    formula: '{mob_health} * (1 + ({level} - 1) / 25)'
+    formula: '{mob_health} * (1 + ({level} - 5) / 25)'
 mob_level:
   formula: '{sumlevel}/{playercount}'
   backup_formula: '{distance}*0.01'

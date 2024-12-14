@@ -176,8 +176,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2024-12-14 00:31:49 +0000",
+      "minecraft:beach": "2024-12-14 00:52:01 +0000",
       "minecraft:dark_forest": "2024-12-13 01:21:49 +0000",
+      "minecraft:river": "2024-12-14 00:51:39 +0000",
       "minecraft:stony_shore": "2024-12-14 00:28:30 +0000",
+      "minecraft:lush_caves": "2024-12-14 01:49:16 +0000",
       "minecraft:ocean": "2024-12-11 03:08:00 +0000"
     },
     "done": false
@@ -455,9 +458,12 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "pine_taiga": "2024-12-14 00:28:54 +0000",
+      "muddy_river": "2024-12-14 01:03:09 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
+      "blackwood_taiga": "2024-12-14 00:53:06 +0000",
       "flower_fields": "2024-12-11 05:14:17 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
+      "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
       "lupine_plains": "2024-12-14 00:29:11 +0000"
     },
     "done": false
@@ -465,9 +471,12 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "pine_taiga": "2024-12-14 00:28:54 +0000",
+      "muddy_river": "2024-12-14 01:03:09 +0000",
       "frozen_tundra": "2024-12-11 03:08:56 +0000",
+      "blackwood_taiga": "2024-12-14 00:53:06 +0000",
       "flower_fields": "2024-12-11 05:14:17 +0000",
       "frozen_pine_taiga": "2024-12-11 04:59:11 +0000",
+      "golden_boreal_taiga": "2024-12-14 01:03:24 +0000",
       "lupine_plains": "2024-12-14 00:29:11 +0000"
     },
     "done": false
@@ -559,7 +568,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-11 04:49:34 +0000",
+      "cooked_beef": "2024-12-14 01:39:49 +0000",
       "baked_potato": "2024-12-13 01:18:58 +0000",
+      "pumpkin_pie": "2024-12-14 00:54:11 +0000",
       "bread": "2024-12-11 03:35:39 +0000"
     },
     "done": false
@@ -3051,8 +3062,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-14 01:05:44 +0000",
       "minecraft:skeleton": "2024-12-11 04:51:13 +0000",
+      "minecraft:vindicator": "2024-12-14 01:09:16 +0000",
       "minecraft:spider": "2024-12-11 04:51:30 +0000",
+      "minecraft:cave_spider": "2024-12-14 00:57:38 +0000",
+      "minecraft:vex": "2024-12-14 01:06:18 +0000",
       "minecraft:zombie": "2024-12-11 04:47:20 +0000"
     },
     "done": false
@@ -4509,6 +4524,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/fajitas": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dark_oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-14 00:40:38 +0000"
@@ -4557,6 +4578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
@@ -4587,6 +4614,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 01:01:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_cutting_board": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-14 00:40:38 +0000"
@@ -4602,6 +4635,12 @@
   "farmerscroptopia:recipes/farmersdelight_crafting/pasta_with_meatballs": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:32:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_wellington": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
     },
     "done": true
   },
@@ -4635,6 +4674,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2024-12-14 01:09:44 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_mail_box": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-14 00:40:38 +0000"
@@ -4650,6 +4695,12 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-14 00:40:38 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/get_totem": {
+    "criteria": {
+      "totem_of_undying": "2024-12-14 01:46:31 +0000"
     },
     "done": true
   },
@@ -4683,9 +4734,21 @@
     },
     "done": true
   },
+  "farmerscroptopia:recipes/farmersdelight_crafting/ratatouille": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_cooking_pot": "2024-12-14 00:50:44 +0000"
     },
     "done": true
   },
@@ -4701,9 +4764,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glacia_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-12-14 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
     },
     "done": true
   },
@@ -4743,15 +4818,39 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cinnamon_roll": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/blightwillow_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
     },
     "done": true
   },
+  "ancient_aether:recipes/building_blocks/highsproot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/dough": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-14 00:45:25 +0000"
     },
     "done": true
   },
@@ -4785,6 +4884,30 @@
     },
     "done": true
   },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-14 00:49:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_fish_and_chips": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
@@ -4809,6 +4932,36 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-14 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/dough": {
+    "criteria": {
+      "has_cooking_pot": "2024-12-14 00:50:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sunny_side_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-14 00:55:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 02:02:50 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/stone_basic_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
@@ -4827,15 +4980,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jellyshroom_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/baked_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
     },
     "done": true
   },
@@ -4857,9 +5034,21 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_illager_manor": "2024-12-14 01:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
     },
     "done": true
   },
@@ -4875,9 +5064,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:50:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2024-12-14 00:15:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/noodles": {
+    "criteria": {
+      "has_cooking_pot": "2024-12-14 00:50:44 +0000"
     },
     "done": true
   },
@@ -4935,6 +5136,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/balustrade_cobblestone_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 00:28:31 +0000"
@@ -4953,15 +5166,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2024-12-14 02:02:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2024-12-14 00:15:53 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/misc/tortilla": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_flail_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 00:40:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-14 01:01:11 +0000"
     },
     "done": true
   },
@@ -4989,6 +5220,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pizza": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/beef_jerky": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:32:16 +0000"
@@ -5004,6 +5241,24 @@
   "croptopia:recipes/burrito": {
     "criteria": {
       "has_the_recipe": "2024-12-14 00:32:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweet_crepes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blightwillow_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/steamed_rice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:50:44 +0000"
     },
     "done": true
   },
@@ -5034,6 +5289,24 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-14 00:45:37 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/dumplings": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:pot": {
+    "criteria": {
+      "cooking_pot": "2024-12-14 00:50:44 +0000"
     },
     "done": true
   },
@@ -5073,6 +5346,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/dauphine_potatoes": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-14 00:37:03 +0000"
@@ -5091,9 +5370,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2024-12-14 01:04:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/squid_ink_pasta": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_madame": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/croque_monsieur": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
     },
     "done": true
   },
@@ -5109,6 +5424,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
@@ -5121,9 +5442,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/quiche": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 02:02:50 +0000"
     },
     "done": true
   },
@@ -5139,9 +5472,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/bridge_lantern": {
     "criteria": {
       "has_planks": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "goety:goety/kill_a_crone": {
+    "criteria": {
+      "kill_a_crone": "2024-12-14 00:53:52 +0000"
     },
     "done": true
   },
@@ -5157,15 +5508,45 @@
     },
     "done": true
   },
+  "croptopia:recipes/steamed_rice": {
+    "criteria": {
+      "has_cooking_pot": "2024-12-14 00:50:44 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
     },
     "done": true
   },
+  "croptopia:recipes/grilled_cheese": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2024-12-14 00:49:31 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_dancer_s_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 00:40:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fried_chicken": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 00:53:55 +0000"
     },
     "done": true
   },
@@ -5187,9 +5568,45 @@
     },
     "done": true
   },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-14 00:49:31 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/cabbage_rolls": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:02:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:frying_pan": {
+    "criteria": {
+      "frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/socotra_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-14 01:45:50 +0000"
     },
     "done": true
   },
@@ -5204,6 +5621,12 @@
       "has_planks": "2024-12-14 00:40:38 +0000"
     },
     "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_manor": "2024-12-14 01:04:56 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
@@ -5229,6 +5652,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2024-12-14 00:49:31 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
@@ -5247,6 +5676,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/hashed_brown": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/time_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
@@ -5262,6 +5697,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-14 00:28:07 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "ancient_aether:recipes/building_blocks/sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
     },
     "done": true
   },
@@ -5349,6 +5796,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-14 00:59:11 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/dark_oak_plank_broad_sword_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 00:40:38 +0000"
@@ -5373,6 +5826,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/the_big_breakfast": {
+    "criteria": {
+      "has_frying_pan": "2024-12-14 00:49:48 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:40:59 +0000"
@@ -5382,6 +5841,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-14 00:05:43 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/tomato_sauce": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:45:25 +0000"
     },
     "done": true
   },
@@ -5403,9 +5868,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-14 00:45:25 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-14 00:53:55 +0000"
     },
     "done": true
   },
@@ -5421,9 +5898,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/fieldsproot_planks_to_skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-14 01:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-14 01:49:22 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-14 01:45:50 +0000"
     },
     "done": true
   },
@@ -5436,6 +5931,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 00:28:31 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2024-12-14 01:05:46 +0000"
     },
     "done": true
   },
