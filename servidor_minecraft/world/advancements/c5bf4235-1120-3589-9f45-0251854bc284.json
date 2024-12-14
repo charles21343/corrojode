@@ -16086,5 +16086,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-14 00:00:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
