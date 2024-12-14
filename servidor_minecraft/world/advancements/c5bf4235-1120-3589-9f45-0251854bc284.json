@@ -16111,6 +16111,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2024-12-14 02:14:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-14 00:05:41 +0000"
@@ -16219,6 +16225,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2024-12-14 02:21:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2024-12-14 01:56:56 +0000"
@@ -16285,6 +16297,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2024-12-14 02:14:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 01:56:56 +0000"
@@ -16342,6 +16360,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2024-12-14 02:14:38 +0000"
     },
     "done": true
   },

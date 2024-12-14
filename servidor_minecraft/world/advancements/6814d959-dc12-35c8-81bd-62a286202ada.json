@@ -18367,9 +18367,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_birch_trapdoor": "2024-12-13 21:50:44 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/redstone/silver_balance": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/silver_lattice": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-13 22:17:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
+    "criteria": {
+      "has_baths": "2024-12-13 22:26:06 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
+    "criteria": {
+      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
     },
     "done": true
   },
@@ -18397,63 +18457,15 @@
     },
     "done": true
   },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2024-12-13 22:17:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/birch_cabinet": {
-    "criteria": {
-      "has_birch_trapdoor": "2024-12-13 21:50:44 +0000"
-    },
-    "done": true
-  },
-  "galosphere:adventure/silver_ingot": {
-    "criteria": {
-      "silver_ingot": "2024-12-13 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_red_sandstone": "2024-12-13 22:41:46 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/building_blocks/silver_tiles_from_silver_block_stonecutting": {
     "criteria": {
       "has_silver_block": "2024-12-13 22:39:09 +0000"
     },
     "done": true
   },
-  "croptopia:knife": {
-    "criteria": {
-      "knife": "2024-12-13 22:45:19 +0000"
-    },
-    "done": true
-  },
   "galosphere:recipes/decorations/monstrometer": {
     "criteria": {
       "has_silver_block": "2024-12-13 22:39:09 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/redstone/silver_balance": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/silver_lattice": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/lime_bath": {
-    "criteria": {
-      "has_baths": "2024-12-13 22:26:06 +0000"
     },
     "done": true
   },
@@ -18469,6 +18481,24 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/silver_tiles_slab_from_silver_block_stonecutting": {
+    "criteria": {
+      "has_silver_block": "2024-12-13 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/silver_panel": {
+    "criteria": {
+      "has_silver_block": "2024-12-13 22:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_red_sandstone": "2024-12-13 22:41:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_cut_red_sandstone": "2024-12-13 22:41:46 +0000"
@@ -18481,45 +18511,15 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/silver_tiles_slab_from_silver_block_stonecutting": {
-    "criteria": {
-      "has_silver_block": "2024-12-13 22:39:09 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/misc/blue_dye_from_blue_bioshroom": {
-    "criteria": {
-      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blue_bioshroom_block": {
-    "criteria": {
-      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/misc/silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2024-12-13 22:13:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/tall_blue_bioshroom": {
-    "criteria": {
-      "has_blue_bioshroom": "2024-12-13 22:33:29 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/building_blocks/silver_panel": {
-    "criteria": {
-      "has_silver_block": "2024-12-13 22:39:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_cut_red_sandstone": "2024-12-13 22:41:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:knife": {
+    "criteria": {
+      "knife": "2024-12-13 22:45:19 +0000"
     },
     "done": true
   },
