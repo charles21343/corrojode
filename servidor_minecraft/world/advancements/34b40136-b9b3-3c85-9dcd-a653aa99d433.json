@@ -5210,6 +5210,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-14 03:08:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-14 00:54:43 +0000"
@@ -5625,6 +5631,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2024-12-14 03:08:29 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/dark_oak_shrub": {
     "criteria": {
       "has_dark_oak_sapling": "2024-12-14 01:50:55 +0000"
@@ -5868,6 +5880,12 @@
   "expanded_combat:recipes/combat/rabbit_leather_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 01:57:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-14 03:08:28 +0000"
     },
     "done": true
   },

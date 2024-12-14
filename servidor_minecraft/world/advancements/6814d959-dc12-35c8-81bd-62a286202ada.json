@@ -18523,5 +18523,11 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-14 03:09:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
