@@ -2777,6 +2777,7 @@
     "criteria": {
       "tavern_dark_oak": "2024-12-03 06:57:59 +0000",
       "pillager_outpost": "2024-10-29 07:27:26 +0000",
+      "illager_manor": "2024-12-14 05:22:00 +0000",
       "illager_camp": "2024-10-27 06:42:21 +0000"
     },
     "done": false
@@ -18530,6 +18531,24 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-14 03:17:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-14 03:17:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2024-12-14 03:28:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_netherwart_stew": {
     "criteria": {
       "has_nether_wart": "2024-12-14 04:07:32 +0000"
@@ -18542,27 +18561,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/decorations/allurite_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-14 03:17:02 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/netherite_boots_repairing": {
     "criteria": {
       "has_netherite_boots": "2024-12-14 04:17:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/netherite_leggings_repairing": {
-    "criteria": {
-      "has_netherite_leggings": "2024-12-14 04:17:16 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_glowstone": "2024-12-14 03:17:02 +0000"
     },
     "done": true
   },
@@ -18572,9 +18573,160 @@
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
+  "aether:recipes/combat/netherite_leggings_repairing": {
     "criteria": {
-      "cutting_board": "2024-12-14 03:28:23 +0000"
+      "has_netherite_leggings": "2024-12-14 04:17:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:17:14 +0000",
+      "has_salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-14 05:19:37 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/butter": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/beetroot_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:salt": {
+    "criteria": {
+      "salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/dead_bush": {
+    "criteria": {
+      "has_salts": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/cheese": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_salt": "2024-12-14 05:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_manor": {
+    "criteria": {
+      "nova_structures:illager_manor": "2024-12-14 05:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-14 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_banner": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/lime_flag": {
+    "criteria": {
+      "has_lime_flag": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/beetroot_soup": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:26:06 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_lime_wool": "2024-12-14 05:23:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_salt": "2024-12-14 05:17:14 +0000"
     },
     "done": true
   },
