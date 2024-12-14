@@ -4840,9 +4840,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/pine_planks": {
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
     "criteria": {
-      "has_logs": "2024-12-13 01:19:37 +0000"
+      "has_cobweb": "2024-12-13 00:58:48 +0000"
     },
     "done": true
   },
@@ -4861,12 +4861,6 @@
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2024-12-13 01:09:01 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:locate_ancient_stronghold": {
-    "criteria": {
-      "ancient_stronghold": "2024-12-13 01:22:52 +0000"
     },
     "done": true
   },
@@ -4936,18 +4930,6 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2024-12-13 01:15:12 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
-    "criteria": {
-      "has_log": "2024-12-13 01:19:37 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/diamond_gauntlet_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
@@ -4972,12 +4954,6 @@
     },
     "done": true
   },
-  "legendary_monsters:defeat_spiky_bug": {
-    "criteria": {
-      "spiky_bug": "2024-12-13 01:23:04 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/diamond_sickle_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
@@ -4987,12 +4963,6 @@
   "expanded_combat:recipes/combat/diamond_katana_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pine_wood": {
-    "criteria": {
-      "has_log": "2024-12-13 01:19:37 +0000"
     },
     "done": true
   },
@@ -5029,12 +4999,6 @@
   "expanded_combat:recipes/combat/diamond_spear_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
-    },
-    "done": true
-  },
-  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-13 01:18:10 +0000"
     },
     "done": true
   },
@@ -5116,12 +5080,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
-    "criteria": {
-      "has_cobweb": "2024-12-13 00:58:48 +0000"
-    },
-    "done": true
-  },
   "expanded_combat:recipes/combat/diamond_quiver_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-13 01:09:01 +0000"
@@ -5137,6 +5095,48 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-13 01:09:01 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-13 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-13 01:18:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_planks": {
+    "criteria": {
+      "has_logs": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/pine_branch_from_pine_log": {
+    "criteria": {
+      "has_log": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pine_wood": {
+    "criteria": {
+      "has_log": "2024-12-13 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2024-12-13 01:22:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_spiky_bug": {
+    "criteria": {
+      "spiky_bug": "2024-12-13 01:23:04 +0000"
     },
     "done": true
   },

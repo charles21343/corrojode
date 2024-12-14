@@ -13942,7 +13942,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2024-11-13 22:16:30 +0000"
+      "minecraft:cow": "2024-11-13 22:16:30 +0000",
+      "minecraft:chicken": "2024-12-14 00:20:22 +0000"
     },
     "done": false
   },
@@ -15800,7 +15801,8 @@
     "criteria": {
       "brown_mushroom": "2024-12-13 22:59:59 +0000",
       "sugar_cane": "2024-12-11 03:53:32 +0000",
-      "wheat": "2024-12-14 00:04:44 +0000"
+      "wheat": "2024-12-14 00:04:44 +0000",
+      "melon": "2024-12-14 00:20:10 +0000"
     },
     "done": false
   },
