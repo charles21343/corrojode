@@ -18529,5 +18529,17 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/allurite_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-14 03:17:02 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-14 03:17:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
