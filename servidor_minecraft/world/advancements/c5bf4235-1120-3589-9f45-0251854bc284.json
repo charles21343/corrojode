@@ -16131,6 +16131,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-14 00:23:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chilli_relleno": {
     "criteria": {
       "has_egg": "2024-12-14 00:05:41 +0000"
@@ -16164,6 +16170,12 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2024-12-14 00:23:57 +0000"
     },
     "done": true
   },
