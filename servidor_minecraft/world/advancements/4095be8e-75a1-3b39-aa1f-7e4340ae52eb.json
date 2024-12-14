@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/green_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/dark_electricity_generator": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
@@ -92,6 +98,18 @@
   "stellarity:cursed_tome/root": {
     "criteria": {
       "requirement": "2024-12-14 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -167,6 +185,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/magenta_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-14 05:27:28 +0000"
@@ -209,6 +233,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "pointblank:recipes/misc/guninternals_gunmetal_ingot": {
     "criteria": {
       "has_the_recipe": "2024-12-14 05:27:28 +0000"
@@ -236,6 +266,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -274,6 +310,12 @@
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_1": "2024-12-14 05:36:20 +0000"
+    },
+    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
@@ -317,6 +359,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 05:34:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/magenta_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "infinity_cave:mechanics/altar/tick": {
     "criteria": {
       "requirement": "2024-12-14 05:09:47 +0000"
@@ -329,6 +383,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/cyan_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:legendary_monsters_root": {
     "criteria": {
       "custom_test_name": "2024-12-14 05:09:47 +0000"
@@ -338,6 +398,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -389,6 +455,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-14 05:33:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
@@ -404,6 +476,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-14 05:22:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/brown_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -446,6 +524,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -500,6 +584,12 @@
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
       "has_iron_nugget": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -612,9 +702,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 05:34:10 +0000"
     },
     "done": true
   },
@@ -702,6 +804,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/purple_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "expanded_combat:recipes/combat/iron_great_hammer_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 05:27:28 +0000"
@@ -728,6 +836,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "autumnal_maple_forest": "2024-12-14 05:36:07 +0000",
       "frozen_tundra": "2024-12-14 05:09:57 +0000"
     },
     "done": false
@@ -770,6 +879,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "autumnal_maple_forest": "2024-12-14 05:36:07 +0000",
       "frozen_tundra": "2024-12-14 05:09:57 +0000"
     },
     "done": false
@@ -780,9 +890,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 05:33:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/farmersdelight_crafting/dog_food": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:33:46 +0000"
     },
     "done": true
   },
@@ -807,6 +935,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -861,6 +995,24 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-14 05:24:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/brown_dye_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-14 05:33:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/purple_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1086,6 +1238,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "pointblank:recipes/misc/gunmetal_ingot": {
+    "criteria": {
+      "has_gunmetal_nugget": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2024-12-14 05:24:48 +0000"
@@ -1113,6 +1283,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1224,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 05:33:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
@@ -1233,6 +1415,18 @@
   "grimoireofgaia:main/root": {
     "criteria": {
       "join": "2024-12-14 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/green_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1314,6 +1508,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/blue_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
@@ -1323,6 +1523,12 @@
   "refurbished_furniture:recipes/misc/constructing/mangrove_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1347,6 +1553,12 @@
   "expanded_combat:recipes/combat/iron_arrow_conditional_shaped": {
     "criteria": {
       "has_item": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2024-12-14 05:34:10 +0000"
     },
     "done": true
   },
@@ -1386,6 +1598,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2024-12-14 05:24:48 +0000"
@@ -1401,6 +1619,12 @@
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-12-14 05:24:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1458,6 +1682,18 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/brown_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-14 05:23:20 +0000"
@@ -1488,9 +1724,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2024-12-14 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/red_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1536,6 +1784,24 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_blue_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-14 05:34:10 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/black_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-14 05:24:48 +0000"
@@ -1554,9 +1820,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/light_gray_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2024-12-14 05:20:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1575,6 +1859,12 @@
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/yellow_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1605,6 +1895,24 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_stool": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "pointblank:recipes/misc/gunmetal_ingot_alt": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 05:33:45 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/white_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
@@ -1641,6 +1949,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 05:27:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/gray_sofa": {
+    "criteria": {
+      "has_wheat": "2024-12-14 05:33:45 +0000"
     },
     "done": true
   },
