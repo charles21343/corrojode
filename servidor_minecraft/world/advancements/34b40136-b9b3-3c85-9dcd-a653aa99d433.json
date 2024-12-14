@@ -5140,5 +5140,84 @@
     },
     "done": true
   },
+  "croptopia:recipes/roasted_nuts_from_campfire": {
+    "criteria": {
+      "has_nut": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/trail_mix": {
+    "criteria": {
+      "has_nuts": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_nuts": "2024-12-14 00:38:50 +0000",
+      "has_the_recipe": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_sapling": {
+    "criteria": {
+      "has_pecan": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_ice_cream": {
+    "criteria": {
+      "has_pecan": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_nuts": {
+    "criteria": {
+      "has_nut": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_nuts": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/pecan_pie": {
+    "criteria": {
+      "has_pecan": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/roasted_smoking": {
+    "criteria": {
+      "has_nut": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
+  "farmerscroptopia:recipes/croptopia_cooking/pecan_ice_cream": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 00:38:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

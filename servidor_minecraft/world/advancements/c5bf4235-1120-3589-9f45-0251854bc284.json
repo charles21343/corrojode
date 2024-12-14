@@ -16089,9 +16089,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-14 00:40:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/barometer": {
+    "criteria": {
+      "has_redstone": "2024-12-14 00:42:29 +0000"
     },
     "done": true
   },
@@ -16131,6 +16143,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-14 00:40:54 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/stick_from_mangrove_roots": {
     "criteria": {
       "has_mangrove_roots": "2024-12-14 00:23:57 +0000"
@@ -16146,6 +16164,12 @@
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2024-12-14 00:05:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-14 00:40:54 +0000"
     },
     "done": true
   },
